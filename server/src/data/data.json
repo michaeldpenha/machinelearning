@@ -1,0 +1,30 @@
+[
+    {
+      "text": "Hi",
+      "outputText": "Hi"
+    },
+    {
+      "text": "Hey buddy",
+      "outputText": "Hey"
+    },
+    {
+      "text": "what you doing",
+      "outputText": "nothing much you say?"
+    },
+    {
+      "text": "can you solve my problem",
+      "outputText": "whats the problem"
+    },
+    {
+      "text": "need help in coding",
+      "outputText": "ok. whats the issue"
+    },
+    {
+      "text": "the code is throwing null pointer",
+      "outputText": "k. can we call later"
+    },
+    {
+      "text": "see you later",
+      "outputText": "cya"
+    }
+  ]
